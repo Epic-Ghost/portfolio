@@ -1,4 +1,5 @@
-bash '''
+bash 
+'''
 
 npm init -y
 npm install -D vite
